@@ -1,0 +1,18 @@
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\SoketPrac\bin\Debug\SoketPrac.exe.config
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\SoketPrac\bin\Debug\SoketPrac.exe
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\SoketPrac\bin\Debug\SoketPrac.pdb
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\SoketPrac\obj\Debug\SoketPrac.csprojResolveAssemblyReference.cache
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\SoketPrac\obj\Debug\SoketPrac.Form1.resources
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\SoketPrac\obj\Debug\SoketPrac.Properties.Resources.resources
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\SoketPrac\obj\Debug\SoketPrac.csproj.GenerateResource.Cache
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\SoketPrac\obj\Debug\SoketPrac.exe
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\SoketPrac\obj\Debug\SoketPrac.pdb
+D:\c sharp\Visual Studio 2015\SoketPrac\SoketPrac\bin\Debug\SoketPrac.exe.config
+D:\c sharp\Visual Studio 2015\SoketPrac\SoketPrac\obj\Debug\SoketPrac.exe
+D:\c sharp\Visual Studio 2015\SoketPrac\SoketPrac\obj\Debug\SoketPrac.pdb
+D:\c sharp\Visual Studio 2015\SoketPrac\SoketPrac\bin\Debug\SoketPrac.exe
+D:\c sharp\Visual Studio 2015\SoketPrac\SoketPrac\bin\Debug\SoketPrac.pdb
+D:\c sharp\Visual Studio 2015\SoketPrac\SoketPrac\obj\Debug\SoketPrac.csprojResolveAssemblyReference.cache
+D:\c sharp\Visual Studio 2015\SoketPrac\SoketPrac\obj\Debug\SoketPrac.Form1.resources
+D:\c sharp\Visual Studio 2015\SoketPrac\SoketPrac\obj\Debug\SoketPrac.Properties.Resources.resources
+D:\c sharp\Visual Studio 2015\SoketPrac\SoketPrac\obj\Debug\SoketPrac.csproj.GenerateResource.Cache

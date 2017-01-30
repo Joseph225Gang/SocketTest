@@ -1,0 +1,18 @@
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\ClientSocket\bin\Debug\ClientSocket.exe.config
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\ClientSocket\bin\Debug\ClientSocket.exe
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\ClientSocket\bin\Debug\ClientSocket.pdb
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\ClientSocket\obj\Debug\ClientSocket.csprojResolveAssemblyReference.cache
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\ClientSocket\obj\Debug\ClientSocket.Client.resources
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\ClientSocket\obj\Debug\ClientSocket.Properties.Resources.resources
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\ClientSocket\obj\Debug\ClientSocket.csproj.GenerateResource.Cache
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\ClientSocket\obj\Debug\ClientSocket.exe
+C:\Users\joseph\Documents\Visual Studio 2015\Projects\SoketPrac\ClientSocket\obj\Debug\ClientSocket.pdb
+D:\c sharp\Visual Studio 2015\SoketPrac\ClientSocket\bin\Debug\ClientSocket.exe.config
+D:\c sharp\Visual Studio 2015\SoketPrac\ClientSocket\obj\Debug\ClientSocket.exe
+D:\c sharp\Visual Studio 2015\SoketPrac\ClientSocket\obj\Debug\ClientSocket.pdb
+D:\c sharp\Visual Studio 2015\SoketPrac\ClientSocket\bin\Debug\ClientSocket.exe
+D:\c sharp\Visual Studio 2015\SoketPrac\ClientSocket\bin\Debug\ClientSocket.pdb
+D:\c sharp\Visual Studio 2015\SoketPrac\ClientSocket\obj\Debug\ClientSocket.csprojResolveAssemblyReference.cache
+D:\c sharp\Visual Studio 2015\SoketPrac\ClientSocket\obj\Debug\ClientSocket.Client.resources
+D:\c sharp\Visual Studio 2015\SoketPrac\ClientSocket\obj\Debug\ClientSocket.Properties.Resources.resources
+D:\c sharp\Visual Studio 2015\SoketPrac\ClientSocket\obj\Debug\ClientSocket.csproj.GenerateResource.Cache

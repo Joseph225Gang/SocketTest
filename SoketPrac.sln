@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoketPrac", "SoketPrac\SoketPrac.csproj", "{FC2B04CF-78B0-4650-B61D-8F39F52B434C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientSocket", "ClientSocket\ClientSocket.csproj", "{0165177C-BFC8-4CA5-A791-43790757EF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC2B04CF-78B0-4650-B61D-8F39F52B434C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2B04CF-78B0-4650-B61D-8F39F52B434C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2B04CF-78B0-4650-B61D-8F39F52B434C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2B04CF-78B0-4650-B61D-8F39F52B434C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0165177C-BFC8-4CA5-A791-43790757EF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0165177C-BFC8-4CA5-A791-43790757EF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0165177C-BFC8-4CA5-A791-43790757EF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0165177C-BFC8-4CA5-A791-43790757EF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
